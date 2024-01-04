@@ -1,11 +1,3 @@
-/******************************************************************************
-
-                            Online Java Compiler.
-                Code, Compile, Run and Debug java program online.
-Write your code in this editor and press "Run" button to execute it.
-
-*******************************************************************************/
-
 // Write a Java program to calculate the sum of natural numbers up to a given positive integer 'n'.
 import java.util.Scanner;
 class SumOfNNumbers {
